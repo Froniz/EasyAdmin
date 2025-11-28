@@ -1,5 +1,5 @@
 [{
-    "translator": "TheIndra, Jaccosf",
+    "translator": "TheIndra, Jaccosf, Leroy",
     "language": "nl",
 
     "on": "Ingeschakeld",
@@ -245,9 +245,9 @@
 
     "spectatevehicleseatoccupied":"Het voertuig waar je net in zat is nu bezet.",
     "spectatenovehiclefound":"Het voertuig waar je net in zat kan niet worden gevonden.",
-    "screenreader":"Screen Reader (TTS)",
-    "screenreaderguide":"Schakelt Text to Speech in voor de GUI",
-    "screenreaderspeed":"Screen Reader Speed",
-    "screenreaderspeedguide":"Adjusts the speed of the text-to-speech feature."
+    "screenreader":"Scherm Lezer (TTS)",
+    "screenreaderguide":"Schakelt Text Naar Spraak in voor de GUI",
+    "screenreaderspeed":"Scherm Lezer Snelheid",
+    "screenreaderspeedguide":"Past de snelheid van de Scherm lezer aan."
 
 }]
